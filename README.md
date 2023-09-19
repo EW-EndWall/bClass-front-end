@@ -19,7 +19,7 @@
 
 ## About
 
-It is designed to be used in --- services and systems within the scope of bClass all in frontend --- project. It project bClass front end ( All in frontend ) 5 part consists of and these are listed below.
+It is designed to be used in --- services and systems within the scope of bClass all in frontend --- project. It project bClass front end ( All in frontend ) 7 part consists of and these are listed below.
 
 - [bClass-theme-css](https://github.com/EW-EndWall/bClass-theme-css) | Design library
 - [bClass-theme-js](https://github.com/EW-EndWall/bClass-theme-js) | Design supplement library
